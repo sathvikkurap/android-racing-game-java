@@ -1,3 +1,3 @@
 # android-racing-game-java
 
-Currently on hold as I go to other projects. I will circle back to this one though.
+A car racing game for Android devices built in Java!
